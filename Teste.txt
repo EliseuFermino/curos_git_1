@@ -6,3 +6,5 @@ Novas funcionalidades do git branch
 vamos testar
 
 apos criar o branch "teste_criacao"
+
+**** CRIADO PELO BRANCH " TESTE_CRIACAO2 "
